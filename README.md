@@ -1,2 +1,2 @@
 # egghead_replica.io
-Frontend development of the egghead.io's main page
+#frontendaily project with the help of Tayfun Erbilen
